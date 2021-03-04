@@ -1,6 +1,6 @@
 header:
     title: Willkommen beim Planungsbüro Wenger
-    text: It's Nice To Meet You
+    text: Ihr regionaler Planer rund um Wind- und Sonnenenergie
     button: Mehr?
     buttonlink: "#dienstleitungen" # "#{section}" or "URL/page link"
 
