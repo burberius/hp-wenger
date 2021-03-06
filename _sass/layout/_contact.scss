@@ -4,6 +4,7 @@ section#kontakt {
   background-image: url("#{$contact-image}");
   background-repeat: no-repeat;
   background-position: center;
+  color: $primary-light;
   .section-heading {
     color: $white;
   }

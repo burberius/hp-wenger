@@ -77,6 +77,14 @@ about:
 contact:
     title: "Kontakt"
     text: "Lorem ipsum or call 123456789"
+    name1: "Michael Wenger"
+    name2: "Planungsbüro für Erneuerbare Energien"
+    street: "Dorfstr. 53"
+    city: "16816 Neuruppin, OT Nietwerder"
+    phone: "03391 77 58 20"
+    fax: "03391 77 58 22"
+    mobile: "0171 54 46 072"
+    email: "info@planungsbuero-wenger.de"
     section: kontakt
 
 footer:
