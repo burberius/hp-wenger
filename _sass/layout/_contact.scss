@@ -4,8 +4,11 @@ section#kontakt {
   background-image: url("#{$contact-image}");
   background-repeat: no-repeat;
   background-position: center;
-  color: $primary-light;
+  color: $primary-lighter;
   .section-heading {
+    color: $white;
+  }
+  .white {
     color: $white;
   }
   .form-group {
@@ -44,5 +47,11 @@ section#kontakt {
     font-weight: 700;
     color: $gray-400;
     @include heading-font;
+  }
+}
+#kontakt a {
+  color: $white;
+  &:hover {
+    color: $primary-light;
   }
 }

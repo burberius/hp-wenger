@@ -9,15 +9,15 @@ services:
     text: "Lorem ipsum"
     section: dienstleitungen
     list:
-      - title: "E-Commerce"
+      - title: "Solar"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-solar-panel #find more at https://fontawesome.com/icons
+      - title: "Wind"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas fa-wind
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-sun
 
 portfolio:
     title: "Referenzen"
@@ -82,7 +82,6 @@ contact:
     street: "Dorfstr. 53"
     city: "16816 Neuruppin, OT Nietwerder"
     phone: "03391 77 58 20"
-    fax: "03391 77 58 22"
     mobile: "0171 54 46 072"
     email: "info@planungsbuero-wenger.de"
     section: kontakt
